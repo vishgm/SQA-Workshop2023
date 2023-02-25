@@ -10,14 +10,6 @@ This folder contains code to test Selenium for Web browser Automation using pyth
 2. 
 
 
-## Solution
-
-### A complete analysis is available here : [emotion-prediction-notebook](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML/tree/master/models)
-
-#### Contents: 
-
-1. [Libraries ](#libraries)
-
 <a name="libraries"></a>
 ## Libraries:
 
